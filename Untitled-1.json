@@ -1,0 +1,23 @@
+[
+  {
+    "nama_peminjam": "Ayu",
+    "judul_buku": "Laskar Pelangi",
+    "tanggal_pinjam": "2026-10-26",
+    "tanggal_kembali": "2026-11-09",
+    "status": "dipinjam"
+  },
+  {
+    "nama_peminjam": "Budi",
+    "judul_buku": "Filosofi Teras",
+    "tanggal_pinjam": "2026-10-26",
+    "tanggal_kembali": "2026-11-02",
+    "status": "terlambat"
+  },
+  {
+    "nama_peminjam": "Siti",
+    "judul_buku": "Bumi",
+    "tanggal_pinjam": "2026-10-20",
+    "tanggal_kembali": "2026-11-03",
+    "status": "dikembalikan"
+  }
+]
